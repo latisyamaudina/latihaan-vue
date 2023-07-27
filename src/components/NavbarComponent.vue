@@ -11,8 +11,7 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
       <template #default="{isShowMenu}">
         <NavbarCollapse :isShowMenu="isShowMenu">
           <NavbarLink isActive link="#">Home</NavbarLink>
-          <NavbarLink link="#">Services</NavbarLink>
-          <NavbarLink link="#">Pricing</NavbarLink>
+          <NavbarLink link="#">Menu</NavbarLink>
           <NavbarLink link="#">Contact</NavbarLink>
         </NavbarCollapse>
       </template>

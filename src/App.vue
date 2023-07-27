@@ -1,9 +1,9 @@
 <template>
   <NavbarComponent style="background-color: bisque;"></NavbarComponent><br>
   <HeaderComponent></HeaderComponent><br>
-  <CardComponent></CardComponent><br>
-  <Card2Component></Card2Component><br>
-  <CardComponent3></CardComponent3><br>
+  <CardComponent></CardComponent><br><br>
+  <Card2Component></Card2Component><br><br>
+  <CardComponent3></CardComponent3><br><br>
   <FooterComponent></FooterComponent><br>
 </template>
 
